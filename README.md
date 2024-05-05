@@ -21,3 +21,15 @@ git clone https://github.com/MiyamuraDev/Cookie
 cd Cookie
 
 python cookie.py
+
+## INSTALLATION 2
+
+rm -rf Cookie
+
+git clone https://github.com/MiyamuraDev/Cookie
+
+cd Cookie
+
+git pull
+
+python cookie.py
