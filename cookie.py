@@ -42,7 +42,7 @@ def logo():
 ┃┃╱╭┫┃╱┃┃┃╱┃┃╭╮┃╱┃┃┃╭━━┫┃╭━┫╭━━╯╱┃┃╱╱╱┃┃╱┃╭━━┫╭╮╭╯
 ┃╰━╯┃╰━╯┃╰━╯┃┃┃╰┳┫┣┫╰━━┫╰┻━┃╰━━╮╱┃┃╱╱╱┃┃╱┃╰━━┫┃┃╰╮
 ╰━━━┻━━━┻━━━┻╯╰━┻━━┻━━━┻━━━┻━━━╯╱╰╯╱╱╱╰╯╱╰━━━┻╯╰━╯
-"""%(randc()),title="%sCOOKIE GETTER"%(Y),subtitle="%s[=] HERU [=]"%(M),border_style=f"bold red"))
+"""%(randc()),subtitle="%s[=] HERU [=]"%(M),border_style=f"bold red"))
 #clear
 def clear():
     if pf in ['win32','win64']:
